@@ -1,3 +1,9 @@
+file = "ExampleData.txt"
 
-def crate_animal_list():
-    pass
+def open_file(file):
+    content = []
+    with open (file,"r") as f:
+        for line in f:
+            content.append(line.strip())
+    return content
+        
