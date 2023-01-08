@@ -10,4 +10,7 @@ während des runs generiet wurden. Dabei sind die Daten of innerhalb von beschre
 
 # Ziel der Applikation
 
-Wir wollen die Daten aus den beschreibenden Strings extrahieren und für spätere Analysen aufarbeiten. 
+Wir wollen die Daten aus den beschreibenden Strings extrahieren und für spätere Analysen aufarbeiten. Hierzu soll Python genutzt werden. Weiter wollen wir mit SQLite eine Datenbank erzeugen auf welche aus einer GUI (pyQT) zugegriffen wird und über welche man Analysen auf den Datensatz anwenden kann.
+
+# Beschreibung der genutzen Packete
+
